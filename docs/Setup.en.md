@@ -19,7 +19,7 @@ Things related to Linux and MacOS X will be explained in the final section, 4.
 The location of the git repository is:
 
 ~~~
-https://github.com/ShinraTech/CCDK
+https://github.com/capnkenny/CCDK
 ~~~
 
 You can get the entire CCDK by cloning this repository.
