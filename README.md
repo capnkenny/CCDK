@@ -2,7 +2,11 @@
 
 The CCDK, or Community Cloud Development Kit, is designed to be a one-stop solution for developing a cloud game using Shinra technology.
 
+For information on how to use CCDK, see the [CCDK documentation](docs/README.en.md).
+
 CCDKの使い方については、  [CCDKドキュメント](docs/README.ja.md) を参照してください。
+
+
 
 
 License
